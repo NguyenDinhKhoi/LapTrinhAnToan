@@ -21,11 +21,11 @@ namespace UserPassHashCode
         SHA sha1 = new SHA();
         int i=0;
         int r = 0;
+        int c = 0;
 
         String[] Login;
 
-        public int I { get => i; set => i = value; }
-        public int R { get => r; set => r = value; }
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -86,20 +86,19 @@ namespace UserPassHashCode
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < Login.Length; i++)
+            for (int i = c; i < Login.Length; i++)
             {
                
                     if (sha1.SHA1(txtUser.Text) == Login[i] && sha1.SHA1(txtPassWord.Text) == Login[i+1])
                     {
                         MessageBox.Show("Accepted login");
+                    c = 0;
+                    txtUser.Clear();
+                    txtPassWord.Clear();
                         break;
                     }
-                    else
-                    {
-                        MessageBox.Show("Failed login");
-                        break;
-                    }
-                
+                     c = c + 2;
+
             }
         }
     }
