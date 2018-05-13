@@ -40,8 +40,14 @@ namespace UserPassHashCode
             {
                 for (i =r ; i < Login.Length; i++)
                 {
-                    
-                        if (txtUser.Text != Login[i])
+
+                    if (txtUser.Text == Login[i])
+                    {
+                        MessageBox.Show("User da ton tai");
+                        break;
+
+                    }
+                    if (txtUser.Text != Login[i])
                         {
 
                             Login[i] = sha1.SHA1(txtUser.Text);
@@ -53,12 +59,7 @@ namespace UserPassHashCode
                             break;
 
                         }
-                        else
-                        {
-                            MessageBox.Show("User da ton tai");
-                            break;
-
-                        }
+                  
                     }
                 }
                 
