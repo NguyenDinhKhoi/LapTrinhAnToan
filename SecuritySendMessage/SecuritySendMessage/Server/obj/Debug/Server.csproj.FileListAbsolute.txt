@@ -1,0 +1,100 @@
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage(fixed)\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\New folder\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc)\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Bai dang lam ---- cam xoa\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage(Fix gui tin duoc+SendNoise)\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.pdb
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\System.Net.Http.dll
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\SV\Desktop\SecuritySendMessage\Server\bin\Debug\System.Net.Http.xml
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\SV\Desktop\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.exe.config
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\Server.pdb
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.Server.resources
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.exe
+C:\Users\NguyenDinhKhoi\Downloads\SecuritySendMessage\SecuritySendMessage\Server\obj\Debug\Server.pdb

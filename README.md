@@ -1,2 +1,0 @@
-# LapTrinhAnToan
-bai tap 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SecuritySendMessage">
+</Property><Property Name="Solution File" Value="C:\Users\SV\Desktop\SecuritySendMessage\SecuritySendMessage.sln">
+</Property><Property Name="User Options File" Value="C:\Users\SV\Desktop\SecuritySendMessage\SecuritySendMessage.suo">
+</Property><Property Name="Date" Value="Wednesday, May 16, 2018">
+</Property><Property Name="Time" Value="16:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SecuritySendMessage.sln" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SecuritySendMessage.suo" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage.suo">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\SecuritySendMessage.csproj" Description="Project file successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\SecuritySendMessage.csproj">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Aes_EcbEncrypt.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Aes_EcbEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Client.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Client.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Client.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Client.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\DiffieHellman02.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\DiffieHellman02.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\MD5.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\MD5.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Program.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Program.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\SHA.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\SHA.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Properties\Settings.settings" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\App.config" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\App.config">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Client.resx" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Client.resx">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\Properties\Resources.resx" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\SecuritySendMessage\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SecuritySendMessage" Source="SecuritySendMessage\SecuritySendMessage.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SecuritySendMessage" Source="SecuritySendMessage\SecuritySendMessage.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="Project file successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Aes_EcbEncrypt.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Aes_EcbEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\DiffieHellman01.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\DiffieHellman01.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\MD5.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\MD5.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Server.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Server.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Program.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Program.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\SHA.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\SHA.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Settings.settings" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\App.config" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\App.config">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\Resources.resx" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.resx" Description="File successfully backed up as C:\Users\SV\Desktop\SecuritySendMessage\Backup\Server\Server.resx">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SecuritySendMessage.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SecuritySendMessage.sln" Description="Converted">
+</Event></UpgradeLog>
